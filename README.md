@@ -41,5 +41,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Saniya9506/leetcode---solutions/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/Saniya9506/leetcode---solutions/tree/master/1929-concatenation-of-array) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Saniya9506/leetcode---solutions/tree/master/0412-fizz-buzz) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Saniya9506/leetcode---solutions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
