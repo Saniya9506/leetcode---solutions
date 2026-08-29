@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Saniya9506/leetcode---solutions/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Saniya9506/leetcode---solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Saniya9506/leetcode---solutions/tree/master/0217-contains-duplicate) |
 | [0621-task-scheduler](https://github.com/Saniya9506/leetcode---solutions/tree/master/0621-task-scheduler) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Saniya9506/leetcode---solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Saniya9506/leetcode---solutions/tree/master/0412-fizz-buzz) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Saniya9506/leetcode---solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
