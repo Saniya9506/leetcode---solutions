@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Saniya9506/leetcode---solutions/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saniya9506/leetcode---solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/Saniya9506/leetcode---solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Saniya9506/leetcode---solutions/tree/master/0217-contains-duplicate) |
 | [0621-task-scheduler](https://github.com/Saniya9506/leetcode---solutions/tree/master/0621-task-scheduler) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Saniya9506/leetcode---solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Saniya9506/leetcode---solutions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Saniya9506/leetcode---solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Saniya9506/leetcode---solutions/tree/master/0217-contains-duplicate) |
 | [0621-task-scheduler](https://github.com/Saniya9506/leetcode---solutions/tree/master/0621-task-scheduler) |
 ## Greedy
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Saniya9506/leetcode---solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Saniya9506/leetcode---solutions/tree/master/0217-contains-duplicate) |
 | [0621-task-scheduler](https://github.com/Saniya9506/leetcode---solutions/tree/master/0621-task-scheduler) |
 ## Heap (Priority Queue)
@@ -43,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Saniya9506/leetcode---solutions/tree/master/0169-majority-element) |
 | [0621-task-scheduler](https://github.com/Saniya9506/leetcode---solutions/tree/master/0621-task-scheduler) |
 ## Simulation
 |  |
@@ -61,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saniya9506/leetcode---solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Saniya9506/leetcode---solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Saniya9506/leetcode---solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
