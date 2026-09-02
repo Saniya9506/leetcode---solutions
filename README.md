@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Saniya9506/leetcode---solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Saniya9506/leetcode---solutions/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Saniya9506/leetcode---solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Saniya9506/leetcode---solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Saniya9506/leetcode---solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Saniya9506/leetcode---solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/Saniya9506/leetcode---solutions/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/Saniya9506/leetcode---solutions/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/Saniya9506/leetcode---solutions/tree/master/0412-fizz-buzz) |
 ## Dynamic Programming
