@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Saniya9506/leetcode---solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Saniya9506/leetcode---solutions/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Saniya9506/leetcode---solutions/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/Saniya9506/leetcode---solutions/tree/master/0383-ransom-note) |
@@ -118,4 +119,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Saniya9506/leetcode---solutions/tree/master/0206-reverse-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Saniya9506/leetcode---solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Saniya9506/leetcode---solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
