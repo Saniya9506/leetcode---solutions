@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Saniya9506/leetcode---solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Saniya9506/leetcode---solutions/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/Saniya9506/leetcode---solutions/tree/master/0621-task-scheduler) |
+| [0704-binary-search](https://github.com/Saniya9506/leetcode---solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Saniya9506/leetcode---solutions/tree/master/0739-daily-temperatures) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Saniya9506/leetcode---solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Saniya9506/leetcode---solutions/tree/master/1470-shuffle-the-array) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Saniya9506/leetcode---solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Saniya9506/leetcode---solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/Saniya9506/leetcode---solutions/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
