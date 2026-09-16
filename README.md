@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Saniya9506/leetcode---solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/Saniya9506/leetcode---solutions/tree/master/0088-merge-sorted-array) |
+| [0143-reorder-list](https://github.com/Saniya9506/leetcode---solutions/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Saniya9506/leetcode---solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Saniya9506/leetcode---solutions/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/Saniya9506/leetcode---solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Saniya9506/leetcode---solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Saniya9506/leetcode---solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Saniya9506/leetcode---solutions/tree/master/0092-reverse-linked-list-ii) |
+| [0143-reorder-list](https://github.com/Saniya9506/leetcode---solutions/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Saniya9506/leetcode---solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Saniya9506/leetcode---solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Saniya9506/leetcode---solutions/tree/master/0234-palindrome-linked-list) |
@@ -143,12 +145,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Saniya9506/leetcode---solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Saniya9506/leetcode---solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/Saniya9506/leetcode---solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Saniya9506/leetcode---solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Saniya9506/leetcode---solutions/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Saniya9506/leetcode---solutions/tree/master/0020-valid-parentheses) |
+| [0143-reorder-list](https://github.com/Saniya9506/leetcode---solutions/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Saniya9506/leetcode---solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Saniya9506/leetcode---solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Saniya9506/leetcode---solutions/tree/master/0496-next-greater-element-i) |
