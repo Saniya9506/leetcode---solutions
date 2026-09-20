@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saniya9506/leetcode---solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Saniya9506/leetcode---solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Saniya9506/leetcode---solutions/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Saniya9506/leetcode---solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Saniya9506/leetcode---solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Saniya9506/leetcode---solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Saniya9506/leetcode---solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Saniya9506/leetcode---solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Saniya9506/leetcode---solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Saniya9506/leetcode---solutions/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Saniya9506/leetcode---solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Saniya9506/leetcode---solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Saniya9506/leetcode---solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Saniya9506/leetcode---solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Saniya9506/leetcode---solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0621-task-scheduler](https://github.com/Saniya9506/leetcode---solutions/tree/master/0621-task-scheduler) |
 ## Counting
 |  |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Saniya9506/leetcode---solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Saniya9506/leetcode---solutions/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Saniya9506/leetcode---solutions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -170,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Saniya9506/leetcode---solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Saniya9506/leetcode---solutions/tree/master/0739-daily-temperatures) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Saniya9506/leetcode---solutions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
