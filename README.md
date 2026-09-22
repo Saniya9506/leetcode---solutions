@@ -189,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Saniya9506/leetcode---solutions/tree/master/0075-sort-colors) |
+## Concurrency
+|  |
+| ------- |
+| [1226-the-dining-philosophers](https://github.com/Saniya9506/leetcode---solutions/tree/master/1226-the-dining-philosophers) |
 <!---LeetCode Topics End-->
