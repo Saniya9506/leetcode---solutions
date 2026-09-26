@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Saniya9506/leetcode---solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Saniya9506/leetcode---solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Saniya9506/leetcode---solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Saniya9506/leetcode---solutions/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Saniya9506/leetcode---solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Saniya9506/leetcode---solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saniya9506/leetcode---solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Saniya9506/leetcode---solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Saniya9506/leetcode---solutions/tree/master/0054-spiral-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Saniya9506/leetcode---solutions/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Saniya9506/leetcode---solutions/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/Saniya9506/leetcode---solutions/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/Saniya9506/leetcode---solutions/tree/master/1929-concatenation-of-array) |
 ## Math
