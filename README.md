@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Saniya9506/leetcode---solutions/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/Saniya9506/leetcode---solutions/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/Saniya9506/leetcode---solutions/tree/master/0680-valid-palindrome-ii) |
+| [1446-consecutive-characters](https://github.com/Saniya9506/leetcode---solutions/tree/master/1446-consecutive-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
