@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Saniya9506/leetcode---solutions/tree/master/0621-task-scheduler) |
+| [0680-valid-palindrome-ii](https://github.com/Saniya9506/leetcode---solutions/tree/master/0680-valid-palindrome-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Saniya9506/leetcode---solutions/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/Saniya9506/leetcode---solutions/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/Saniya9506/leetcode---solutions/tree/master/0412-fizz-buzz) |
+| [0680-valid-palindrome-ii](https://github.com/Saniya9506/leetcode---solutions/tree/master/0680-valid-palindrome-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Saniya9506/leetcode---solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Saniya9506/leetcode---solutions/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/Saniya9506/leetcode---solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0680-valid-palindrome-ii](https://github.com/Saniya9506/leetcode---solutions/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Saniya9506/leetcode---solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Linked List
 |  |
